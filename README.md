@@ -8,9 +8,9 @@ This work is licensed under a
 # Summary
 This GPU support was designed to be used with anti-bending bracket which is delivered together with MSI RTX 30xx Gaming X/Z Trio. In general, the bracket does quite good anti-GPU-sagging job but depending on a PC case, it may be a bit unstable at its end (moving in horizontal plane under the weight of a GPU). It looks like these MSI brackets are not designed only for one specific GPU model but rather for a range of RTX30xx Gaming X/Z Trio GPUs  and in a result they do not really fit perfectly to every GPU. My published here model helps to increase working surface of the bracket in a place where it supports the GPU (end of the bracket). It also helps to precisely level your GPU card thanks to the thread incorporated into the design.
 
-The support was tested with my RTX3070 Gaming Z Trio bracket but when I watch to the following MSI video I have a gut feeling they deliver the same anti-bending bracket with a range of 30xx Gaming Trio GPUs:
+The support was tested only with my RTX3070 Gaming Z Trio bracket but when I watch to the following MSI's video I have a gut feeling they deliver the same anti-bending bracket with a range of 30xx Gaming Trio GPUs:
+
 https://www.youtube.com/watch?v=a4ZdkeQ2Yjs
-(let me know in the comments please if my assumption is right as I do not have access to other models to check it)
 
 The bottom part total length was defined based on measurements taken in the system for which it was designed (PC case bequiet Pure Base 500DX + above mentioned GPU). If you do not have exactly the same PC case, you will have to take your own measurements and re-define value of "stand_h_total" parameter in the attached OpenSCAD generator.
 
