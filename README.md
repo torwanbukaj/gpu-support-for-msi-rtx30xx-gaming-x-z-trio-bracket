@@ -16,13 +16,13 @@ The bottom part total length was defined based on measurements taken in the syst
 
 You will need one M2 screw of 10-15mm length to connect the top part (hook) to the GPU bracket.
 
+This GPU stand generator requires "threads.scad" library for generating threads. You can download it e.g., using this official OpenSCAD link:
+
+[Link to official OpenSCAD "Threads" library](https://openscad.org/libraries.html#threads.scad)
+
 ![3D model](img/gpu_stand_model_overview_500px.png?raw=true)
 ![Top part increasing touch surface](img/gpu_stand_end_surface_increased_600px.jpg?raw=true)
 ![GPU support - side view](img/gpu_stand_side_view_600px.jpg?raw=true)
-
-This GPU stand generator requires "threads.scad" library for generating threads. You can download it e.g., using this official OpenSCAD link:
-
-[Link to official OpenSCAD "Threads" library]([https://link-url-here.org](https://openscad.org/libraries.html#threads.scad))
 
 # How to print
 
