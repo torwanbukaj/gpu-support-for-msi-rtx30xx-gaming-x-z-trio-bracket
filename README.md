@@ -20,6 +20,10 @@ You will need one M2 screw of 10-15mm length to connect the top part (hook) to t
 ![Top part increasing touch surface](img/gpu_stand_end_surface_increased_600px.jpg?raw=true)
 ![GPU support - side view](img/gpu_stand_side_view_600px.jpg?raw=true)
 
+This GPU stand generator requires "threads.scad" library for generating threads. You can download it e.g., using this official OpenSCAD link:
+
+[Link to official OpenSCAD "Threads" library]([https://link-url-here.org](https://openscad.org/libraries.html#threads.scad))
+
 # How to print
 
 To achieve the best printing quality, the bottom part (pillar) should be printed in vertical position (standing).
@@ -28,9 +32,6 @@ If it comes to the top part (hook) I highly recommend to print it up-side-down, 
 
 ![How to print the top part](img/gpu_stand_how_to_print_top_600px.jpg?raw=true)
 
-This GPU stand generator requires "threads.scad" library for generating threads. You can download it e.g., using this official OpenSCAD link:
-
-https://openscad.org/libraries.html#threads.scad
 ---
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
